@@ -1,2 +1,2 @@
 # training-repo
-For the DevOps GeekWeek in EMEA
+For the DevOps GeekWeek
