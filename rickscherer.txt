@@ -1,2 +1,0 @@
-This is so devops
-devops 2.0
